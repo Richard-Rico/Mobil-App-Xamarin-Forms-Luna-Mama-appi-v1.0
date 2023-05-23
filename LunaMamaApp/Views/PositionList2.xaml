@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage  xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LunaMamaApp.Views.PositionList2"
+             NavigationPage.HasNavigationBar="False"
+             xmlns:cardsview="clr-namespace:PanCardView;assembly=PanCardView"
+             xmlns:sharpnado="clr-namespace:Sharpnado.MaterialFrame;assembly=Sharpnado.MaterialFrame"
+             xmlns:sombras="clr-namespace:Sharpnado.Shades;assembly=Sharpnado.Shadows"
+             xmlns:proc="clr-namespace:PanCardView.Processors;assembly=PanCardView">
+
+    <Grid RowDefinitions="auto,*,10,auto"
+          BackgroundColor="#b3a3ba">
+
+        <!--Grid Background-->
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0"
+                             EndPoint="0,1">
+                <GradientStop Color="#B3A3BA"
+                          Offset="0.3"/>
+                <GradientStop Color="#4A3C50"
+                          Offset="1.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <!--Logo-->
+        <StackLayout 
+                     HeightRequest="140"
+                     Margin="20,30,20,0">
+            <Grid>
+                <Image Source="logoB.png"
+                   HeightRequest="80"
+                   Margin="0,0,0,0"/>
+
+                <Label HorizontalOptions="CenterAndExpand"                   
+                   Text="LUNA MAMA"                   
+                   FontFamily="theseasons-reg"
+                   FontSize="25"
+                   TextColor="White"
+                   Margin="0,26,0,-10"/>
+
+                <Label HorizontalOptions="CenterAndExpand"                   
+                   Text="Appi"                   
+                   FontFamily="Halimun"
+                   FontSize="10"
+                   TextColor="White"
+                   Margin="0,47,5,0"/>
+            </Grid>
+
+            <Label HorizontalOptions="CenterAndExpand"                   
+                   Text="Avautumisvaihe"  
+                   FontSize="20"
+                   TextColor="White"
+                   Margin="0,20,0,0"/>
+
+        </StackLayout>
+        
+        <!--1st Part-->
+        <cardsview:CoverFlowView IsCyclical="True"
+                                 ItemsSource="{Binding Positionlist2}"
+                                 Grid.Row="1">
+            
+            <x:Arguments>
+                <proc:CoverFlowProcessor ScaleFactor="0.75"
+                                         OpacityFactor="0.25"/>
+            </x:Arguments>
+            
+            <cardsview:CoverFlowView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Margin="40">
+
+                        <Frame CornerRadius="18"
+                               Padding="0"
+                               HasShadow="False">
+
+                            <Image Source="{Binding Icon}"
+                                   Aspect="AspectFit"/>
+                        </Frame>
+                        
+                        <Image Source="favorites.png"
+                               HorizontalOptions="End"
+                               VerticalOptions="Start"
+                               HeightRequest="30"
+                               Margin="0,10,10,0"/>
+                        
+                        <Grid VerticalOptions="Start"
+                              Margin="0,0,0,-30"
+                              Grid.Row="1">
+                            <sharpnado:MaterialFrame CornerRadius="18"
+                                                     MaterialBlurStyle="Dark"
+                                                     MaterialTheme="AcrylicBlur"/>
+                            <StackLayout Margin="15"
+                                         VerticalOptions="Center">
+                                <Label Text="{Binding Name}"
+                                       TextColor="White"
+                                       FontAttributes="Bold"
+                                       FontSize="14"/>
+                                <Label Text="{Binding Description}"
+                                       TextColor="LightGray"
+                                       FontAttributes="Bold"
+                                       FontSize="12"/>
+                            </StackLayout>
+                        </Grid>
+
+                    </Grid>
+                </DataTemplate>
+            </cardsview:CoverFlowView.ItemTemplate>
+        </cardsview:CoverFlowView>
+
+        <!--Menu-->
+        <StackLayout Orientation="Horizontal"
+                     Grid.Row="3"
+                     HeightRequest="25"
+                     Margin="30">
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <ImageButton Source="m1.png"                             
+                             HeightRequest="25"
+                             BackgroundColor="Transparent"
+                             Clicked="HomeButton_Clicked"/>
+                <Label Text="Koti"
+                       TextColor="White"
+                       FontSize="Micro"/>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <ImageButton Source="m2.png"                             
+                             HeightRequest="25"
+                             BackgroundColor="Transparent"/>
+                <Label Text="Etsi"
+                       TextColor="White"
+                       FontSize="Micro"/>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <ImageButton Source="m3.png"                             
+                             HeightRequest="25"
+                             BackgroundColor="Transparent"/>
+                <Label Text="Profiili"
+                       TextColor="White"
+                       FontSize="Micro"/>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <ImageButton Source="m4.png"                             
+                             HeightRequest="25"
+                             BackgroundColor="Transparent"/>
+                <Label Text="Pemium"
+                       TextColor="White"
+                       FontSize="Micro"/>
+            </StackLayout>
+        </StackLayout>
+
+    </Grid>
+</ContentPage>

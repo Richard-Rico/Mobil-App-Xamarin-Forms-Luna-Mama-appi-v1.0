@@ -1,0 +1,80 @@
+@string/appbar_scrolling_view_behavior;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\enterfromleft.xml
+alpha;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\shellcontent.xml
+attr;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__attrs.xml
+attr;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\values\attrs.xml
+background;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+bool;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+cache-path;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\62\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+CarouselView.FormsPlugin.Droid.HorizontalViewPager;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+CarouselView.FormsPlugin.Droid.VerticalViewPager;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+color;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__colors.xml
+color;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+color;obj\Debug\130\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\tabbar.xml
+Com.ViewPagerIndicator.CirclePageIndicator;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+Com.ViewPagerIndicator.CirclePageIndicator;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+declare-styleable;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__attrs.xml
+declare-styleable;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\values\attrs.xml
+dimen;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+enum;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__attrs.xml
+external-cache-path;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\62\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\62\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\bottomtablayout.xml
+ImageView;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+ImageView;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+integer;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+item;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__styles.xml
+item;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\values\styles.xml
+LinearLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+LinearLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+LinearLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\bottomtablayout.xml
+paths;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\62\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+RelativeLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\1\jl\res\values\strings.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\strings.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__attrs.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__colors.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__styles.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\4\jl\res\values\strings.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\values\attrs.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\values\strings.xml
+resources;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\values\styles.xml
+resources;obj\Debug\130\res\values\colors.xml
+resources;obj\Debug\130\res\values\styles.xml
+set;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\enterfromleft.xml
+set;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\enterfromright.xml
+set;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\exittoleft.xml
+set;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\exittoright.xml
+string;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\1\jl\res\values\strings.xml
+string;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\strings.xml
+string;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\4\jl\res\values\strings.xml
+string;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\values\strings.xml
+style;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__styles.xml
+style;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\values\styles.xml
+style;obj\Debug\130\res\values\styles.xml
+translate;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\enterfromleft.xml
+translate;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\enterfromright.xml
+translate;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\exittoleft.xml
+translate;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\Koodi\Mobil APP\LunaMamaApp\LunaMamaApp.Android\obj\Debug\130\lp\63\jl\res\layout\flyoutcontent.xml

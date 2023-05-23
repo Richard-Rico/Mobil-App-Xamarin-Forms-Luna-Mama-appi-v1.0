@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LunaMamaApp.Views.Home"
+             NavigationPage.HasNavigationBar="False">
+    
+    <Grid RowDefinitions="auto,*,180,auto"
+          BackgroundColor="#b3a3ba">
+
+        <!--Grid Background-->
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0"
+                             EndPoint="0,1">
+                <GradientStop Color="#B3A3BA"
+                          Offset="0.3"/>
+                <GradientStop Color="#4A3C50"
+                          Offset="1.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <!--Logo-->
+        <StackLayout HeightRequest="80" 
+                     Margin="20,30,20,0">
+            <Grid>
+                <Image Source="logoB.png"
+                       HeightRequest="80"
+                       Margin="0,0,0,0"/>
+
+                <Label HorizontalOptions="CenterAndExpand"                   
+                       Text="LUNA MAMA"                   
+                       FontFamily="theseasons-reg"
+                       FontSize="25"
+                       TextColor="White"
+                       Margin="0,26,0,-10"/>
+
+                <Label HorizontalOptions="CenterAndExpand"                   
+                       Text="Appi"                   
+                       FontFamily="Halimun"
+                       FontSize="10"
+                       TextColor="White"
+                       Margin="0,47,5,0"/>
+            </Grid>
+
+            <Label HorizontalOptions="CenterAndExpand"                   
+                   Text="Moi,"  
+                   FontSize="Small"
+                   TextColor="White"
+                   Margin="0,20,0,0"/>
+
+        </StackLayout>
+
+        <!--1st Part-->
+        <StackLayout Margin="20,200,20,160"
+                     Orientation="Horizontal"
+                     HorizontalOptions="CenterAndExpand">
+
+            <Grid HorizontalOptions="CenterAndExpand">
+
+                <Frame CornerRadius="18"
+                       BorderColor="White"
+                       Padding="0"
+                       HasShadow="False"
+                       BackgroundColor="Transparent">
+
+                    <StackLayout Orientation="Vertical"
+                                 Grid.Row="3"
+                                 HeightRequest="25"
+                                 Margin="40,30">
+
+                        <ImageButton HorizontalOptions="FillAndExpand"
+                                     VerticalOptions="CenterAndExpand"
+                                     Source="clock.png"
+                                     HeightRequest="40"
+                                     BackgroundColor="Transparent"
+                                     Clicked="Counter_Clicked"/>
+
+                        <Label HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="EndAndExpand"
+                               Text="  Supistus-  "
+                               FontSize="Medium"
+                               TextColor="White"/>
+
+                        <Label HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="EndAndExpand"
+                               Text="         laskuri        "
+                               FontSize="Micro"
+                               TextColor="White"/>
+
+                    </StackLayout>
+
+                </Frame>
+            </Grid>
+
+            <Grid HorizontalOptions="CenterAndExpand">
+
+                <Frame CornerRadius="18"
+                       BorderColor="White"
+                       Padding="0"
+                       HasShadow="False"
+                       BackgroundColor="Transparent">
+
+                    <StackLayout Orientation="Vertical"
+                                 Grid.Row="3"
+                                 HeightRequest="25"
+                                 Margin="40,30">
+
+                        <ImageButton HorizontalOptions="FillAndExpand"
+                                     VerticalOptions="Center"
+                                     Source="pregnant.png"
+                                     HeightRequest="50"
+                                     BackgroundColor="Transparent"
+                                     Clicked="MenuPositions_Clicked"/>
+
+                        <Label HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="EndAndExpand"
+                               Text="Asennot"
+                               FontSize="Medium"
+                               TextColor="White"/>
+
+                        <Label HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="EndAndExpand"
+                               Text="     Synnytyksessä      "
+                               FontSize="Micro"
+                               TextColor="White"/>
+
+                    </StackLayout>
+                </Frame>
+            </Grid>
+
+        </StackLayout>
+
+        <!--2nd Part-->
+        <StackLayout Margin="10,370,10,-3"
+                     Orientation="Horizontal"
+                     HorizontalOptions="CenterAndExpand">
+            
+            <Grid HorizontalOptions="CenterAndExpand">
+                
+                <Frame CornerRadius="18"
+                       BorderColor="White"
+                       Padding="0"
+                       HasShadow="False"
+                       BackgroundColor="Transparent">
+
+                    <StackLayout Orientation="Vertical"
+                                 Grid.Row="3"
+                                 HeightRequest="25"
+                                 Margin="30">
+                        
+                        <ImageButton HorizontalOptions="FillAndExpand"
+                                     VerticalOptions="CenterAndExpand"
+                                     Source="pain.png"
+                                     HeightRequest="45"
+                                     BackgroundColor="Transparent"
+                                     Clicked="Tens_Clicked"/>
+
+                        <Label HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="EndAndExpand"
+                               Text="Tens-laite"
+                               FontSize="Medium"
+                               TextColor="White"/>
+                        
+                        <Label HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="EndAndExpand"
+                               Text="            Vuokraus                "
+                               FontSize="Micro"
+                               TextColor="White"/>
+                        
+                    </StackLayout>
+                </Frame>
+            </Grid>
+
+            <Grid HorizontalOptions="CenterAndExpand">
+                
+                <Frame CornerRadius="18"
+                       BorderColor="White"
+                       Padding="0"
+                       HasShadow="False"
+                       BackgroundColor="Transparent">
+
+                    <StackLayout Orientation="Vertical"
+                                 Grid.Row="3"
+                                 HeightRequest="25"
+                                 Margin="30">
+
+                        <ImageButton HorizontalOptions="FillAndExpand"
+                                     VerticalOptions="CenterAndExpand"
+                                     Source="psych.png"
+                                     HeightRequest="50"
+                                     BackgroundColor="Transparent"
+                                     Clicked="Harjoitukset_Clicked" />
+
+                        <Label HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="EndAndExpand"
+                               Text="Harjoitukset"
+                               FontSize="Medium"
+                               TextColor="White"/>
+
+                        <Label HorizontalOptions="CenterAndExpand"
+                               VerticalOptions="EndAndExpand"
+                               Text="Hengitys-Rentoutuminen"
+                               FontSize="Micro"
+                               TextColor="White"/>
+                    </StackLayout>
+                    
+                </Frame>
+            </Grid>
+        </StackLayout>
+        
+        <!--Menu-->
+        <StackLayout Orientation="Horizontal"
+                     Grid.Row="3"
+                     HeightRequest="25"
+                     Margin="30">
+            
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <ImageButton Source="m1.png"                             
+                             HeightRequest="25"
+                             BackgroundColor="Transparent"/>
+                <Label Text="Koti"
+                       TextColor="White"
+                       FontSize="Micro"/>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <ImageButton Source="m2.png"                             
+                             HeightRequest="25"
+                             BackgroundColor="Transparent"/>
+                <Label Text="Etsi"
+                       TextColor="White"
+                       FontSize="Micro"/>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <ImageButton Source="m3.png"                             
+                             HeightRequest="25"
+                             BackgroundColor="Transparent"/>
+                <Label Text="Profiili"
+                       TextColor="White"
+                       FontSize="Micro"/>
+            </StackLayout>
+
+            <StackLayout HorizontalOptions="CenterAndExpand">
+                <ImageButton Source="m4.png"                             
+                             HeightRequest="25"
+                             BackgroundColor="Transparent"/>
+                <Label Text="Pemium"
+                       TextColor="White"
+                       FontSize="Micro"/>
+            </StackLayout>
+        </StackLayout>
+        
+    </Grid>
+</ContentPage>

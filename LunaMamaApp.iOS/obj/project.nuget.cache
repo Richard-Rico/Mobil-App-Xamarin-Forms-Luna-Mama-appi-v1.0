@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "vrE450qNcRIb15BuTvQQxF6Rcy3/dHQRmD/dme1IzWJgx927yAKrJr664lIxWl3/7OLtMXjLdA7qvhfOdXaxqg==",
+  "success": true,
+  "projectFilePath": "D:\\Koodi\\Mobil APP\\LunaMamaApp\\LunaMamaApp.iOS\\LunaMamaApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\cardsview\\2.8.1\\cardsview.2.8.1.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\carouselview.formsplugin\\6.0.0\\carouselview.formsplugin.6.0.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\sharpnado.materialframe\\1.3.0\\sharpnado.materialframe.1.3.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\sharpnado.shadows\\1.2.1\\sharpnado.shadows.1.2.1.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\thomaslevesque.weakevent\\4.1.0\\thomaslevesque.weakevent.4.1.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.6.0\\xam.plugin.simpleaudioplayer.1.6.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\xamarin.essentials\\1.7.5\\xamarin.essentials.1.7.5.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}
