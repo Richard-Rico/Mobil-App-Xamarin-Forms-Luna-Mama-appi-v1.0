@@ -1,8 +1,8 @@
-# Mobil App (Xamarin Forms) Luna Mama appi v1.0 Android & iOS.
+# Mobil App (Xamarin Forms, C#) Luna Mama appi v1.0 Android & iOS.
 
 ## Description ⛰ 
 
-This repository contains a Luna Mama Appi v1.0, a mobile application for Android and iOs created with the Xamarin.Forms (UI Framework).
+This repository contains a Luna Mama Appi v1.0, a mobile application for Android and iOs created with the Xamarin.Forms (UI Framework) and C#.
 
 ![1](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/3e324ed7-64bf-4fd0-af5f-125d8a0daf99)
 ![2](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/8890f4a3-6949-49de-8a85-3dd0dc08d9af)
