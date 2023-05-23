@@ -4,11 +4,12 @@
 
 This repository contains a Luna Mama Appi v1.0, a mobile application for Android and iOs created with the Xamarin.Forms (UI Framework).
 
-![LMappi1](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/fc6f360b-cf3a-48d4-b362-9aa9e099ac61)
-![LMappi5](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/6b75a225-a3ab-4dec-839c-b7ed0863c150)
-![LMappi2](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/c38f6a62-8e40-40e3-8c0c-7794668b7e1a)
-![LMappi3](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/1a2fb877-6b1f-4f91-8478-672e9fbc2aee)
-![LMappi4](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/f08c2a5a-4eea-4135-a0aa-226ebe5a1dcb)
+![1](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/3e324ed7-64bf-4fd0-af5f-125d8a0daf99)
+![2](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/8890f4a3-6949-49de-8a85-3dd0dc08d9af)
+![3](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/d86637c0-9ffd-457c-9f29-cb0b86d7a428)
+![4](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/106c86ba-49d0-4d87-a1da-4e8a5514b392)
+![5](https://github.com/Richard-Rico/Mobil-App-Xamarin-Forms-Luna-Mama-appi-v1.0/assets/104793974/7eb0694f-8367-430f-9be6-04b9f5ef70dd)
+
 
 
 ## Author ©
